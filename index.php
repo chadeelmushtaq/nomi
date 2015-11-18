@@ -13,5 +13,6 @@ and open the template in the editor.
         <?php
         // put your code here
         ?>
+        sfsdf sdfsd sdfsd
     </body>
 </html>
