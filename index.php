@@ -55,7 +55,7 @@ function getEventsByCityVanue($city=null, $vanue = null) {
 function getVanuesByCity($city) {
     $param = array(
         'websiteConfigID' => WEB_CONF_ID,
-        'whereClause' => 'ID=2475167"'
+        'whereClause' => 'ID = 2475167'
     );
 
     $client = new SoapClient(WSDL);
